@@ -3,6 +3,41 @@
 Interactive newsvendor exercises for students. Both notebooks run code-free
 via [Voila](https://voila.readthedocs.io/) + [Binder](https://mybinder.org).
 
+## 🎮 Play the game
+
+**Module 1 — play first, in class:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module1.ipynb)
+
+**Module 2 — take home after Module 1:**
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module2.ipynb)
+
+Click a badge above (or use the direct links below it, if badges don't
+render on your device):
+
+- Module 1: https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module1.ipynb
+- Module 2: https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module2.ipynb
+
+**First click can take 1–2 minutes to build** (it's setting up a private
+Python environment just for you) — that's normal, just wait for it. After
+that it usually loads in under a minute.
+
+### How to play
+
+1. Read the scenario description at the top of the page.
+2. Click **Start / Reset** to begin.
+3. Enter your **order quantity** and click **Submit**. You'll see the
+   demand that occurred, your profit for that round, and your updated
+   running average.
+4. Repeat until the round counter says you're done.
+5. Click **Download CSV** to save your results — you'll need this file for
+   your write-up/submission.
+6. Scroll down and answer the questions in that section before moving to
+   the next one.
+
+No code is shown anywhere on the page — if you ever see raw Python instead
+of a scenario description and buttons, refresh the page or re-click the
+link above.
+
 ## Course flow
 
 1. **Module 1 (in-class / first play)** — `newsvendor_module1.ipynb`
@@ -23,18 +58,6 @@ via [Voila](https://voila.readthedocs.io/) + [Binder](https://mybinder.org).
    not a checklist: the notebook tells students to pick 4 scenarios (always
    including the baseline and the framing chapter) for their 8-minute,
    4-slide presentation — see the guide inside the notebook.
-
-## For students
-
-**Module 1 (play first, in class):**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module1.ipynb)
-
-**Module 2 (take home after Module 1):**
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JafarNamdar/newsvendor-game/HEAD?urlpath=voila%2Frender%2Fnewsvendor_module2.ipynb)
-
-Each link spins up a private session per student — no code is shown, only
-the instructions and interactive widgets. First click can take 1–2 minutes
-to build; after that it's usually under a minute.
 
 ## Setup (one-time, for the instructor)
 
